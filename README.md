@@ -121,6 +121,8 @@ WHERE
   tpep_dropoff_datetime between '2024-03-01' and '2024-03-15';
 ```
 
+310.24 MB for non-partitioned table and 26.84 MB for the partitioned table
+
 ### Question 7 - Where is the data stored in the External Table created
 
 Container Registry
